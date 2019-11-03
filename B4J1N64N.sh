@@ -13,17 +13,17 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 sleep 1
 toilet -f big -F gay "T00Ls" | lolcat
-toilet -f big -F gay "Mr.004V5" 
+toilet -f big -F gay "Mr.Pscychopat" 
 echo ""      
-echo "\033[32;1mAuthor : Mr.004 Feat Beni_Hat12,Conor9K" 
+echo "\033[32;1mAuthor : YogasGans Feat Faried Anjeng" 
 echo "\033[35;1mTeam : Aku Newbie Jadi Ngga Punya Team:( "
-echo "\033[33;1mKontak Me :  083108271123"
+echo "\033[33;1mKontak Me :  085641862174"
 echo "\033[31;1mSubcribe Youtube:"
-echo "\033[33;1mGamer 4 LIve" "\033[32;1m&" "\033[36;1mKimi Hime"
+echo "\033[33;1mGapunya" "\033[32;1m&" "\033[36;Gapunya"
 echo "\033[34;1m[============================[>"
 sleep 1
 echo ""
-echo "\033[32;1mGunakan Dengan Bijak Aku Hanyalah Newbie Mr.004?:"
+echo "\033[32;1mGunakan Dengan Bijak Aku Hanyalah Newbie Mr.Pscychopat?:"
 echo "\033[36;1m"
 echo "[===============================================[>"
 echo $green "1.> Spam Sms Tokopedia"
@@ -229,7 +229,7 @@ echo "[===============================================]>"
 echo $yellow "0.> keluar asw"
 echo "[===============================================]>"
 echo "\033[32;1m"
-read -p "[root@Mr.004👤:~#" bro
+read -p "[root@Mr.Pscychopat👤:~#" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
